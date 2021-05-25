@@ -4,6 +4,7 @@
   achará aqui conhecimentos distintos. Assim como faltará alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender
   intrínseca, que me faz ir além dos meus objetivos.
   </p>
+  
   <p align="left">
     :dart: Conhecimentos: <strong>HTML, CSS, JavaScript, ReactJS, React-Native, Styled Components, Prettier, Redux, Eslint</strong>.
   </p>
@@ -27,5 +28,14 @@
     <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
     <img  src="https://github.com/GersonDantas/img/blob/main/Facebook.png" width="180" height="50"/></a>
     
-  </p>  
+  </p> 
+  
+   <center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gersonDantas&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center> 
   
