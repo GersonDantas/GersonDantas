@@ -37,7 +37,8 @@
   </br>
   
   <p>
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight" />
+   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight" />
+  <br/>
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gersonDantas&theme=tokyonight"/>
   </p>  
   
