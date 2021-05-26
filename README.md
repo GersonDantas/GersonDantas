@@ -8,7 +8,7 @@
   </br>
   
   <p align="left">
-    :dart: Conhecimentos: <strong>HTML, CSS, JavaScript, ReactJS, React-Native, Styled Components, Prettier, Redux, Eslint</strong>.
+    :dart: Conhecimentos: <strong>HTML, CSS, JavaScript, ReactJS, React-Native, TypeScript, Styled Components, Prettier, Redux, Eslint</strong>.
   </p>
 
   <p align="left">
