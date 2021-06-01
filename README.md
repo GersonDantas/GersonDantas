@@ -1,4 +1,4 @@
-  <img align="right" src="https://github.com/GersonDantas/img/blob/main/mobileDev.png" width="280" height="120"/></a>
+  <img align="right" src="https://github.com/GersonDantas/img/blob/main/mobileDev.png" width="280" height="120"  alt="Ilustração de programador mobile" /></a>
 - <p align="left">
     :wave: Olá, me chamo Gerson Dantas e sou <strong>desenvolvedor mobile</strong>. Porem, sou um sujeito um tanto curioso. Por isso que,
     achará aqui conhecimentos distintos. Assim como faltará alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender
