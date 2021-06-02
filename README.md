@@ -1,4 +1,5 @@
-  <img align="right" src="https://github.com/GersonDantas/img/blob/main/mobileDev.png" width="280" height="120"  alt="Ilustração de programador mobile" /></a>
+  <img align="right" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" /></a>
+  
 - <p align="left">
     :wave: Olá, me chamo Gerson Dantas e sou <strong>desenvolvedor mobile</strong>. Porem, sou um sujeito um tanto curioso. Por isso que,
     achará aqui conhecimentos distintos. Assim como faltará alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender
@@ -14,12 +15,15 @@
   <p align="left">
     :construction_worker: Ferramentas de Trabalho: <strong>VScode, Figma, expo, adb, AdobeColor, Git, GitHub, Linux</strong>
   </p>
+  
+  
+  </br>
+  </br>
 
   <p align="left">
     :raising_hand: Se chegou até aqui e está curioso, pode entrar em cotato. Pra trabalho, ou simplismente conversar. Manda um alô: ⤵️
   </p>
   
-  </br>
   
   <p align="left">
   
@@ -34,6 +38,7 @@
     
   </p> 
   
+  </br>
   </br>
   
   <p>
