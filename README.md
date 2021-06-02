@@ -43,7 +43,10 @@
   
   <p>
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight" />
-  <br/>
+  </p> 
+  </br>
+  </br>
+  <p>
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gersonDantas&theme=tokyonight"/>
   </p>  
   
