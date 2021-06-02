@@ -28,14 +28,17 @@
   <p align="left">
   
     <a href="https://www.instagram.com/gerson_santtoss/" alt="Instagran" >
-    <img  src="https://github.com/GersonDantas/img/blob/main/Instagran.png" width="180" height="50"/></a>
-
+      <img  src="https://github.com/GersonDantas/img/blob/main/Instagran.png" width="180" height="50"/>
+    </a>
+    
     <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Linkedin">
-    <img  src="https://github.com/GersonDantas/img/blob/main/Linkedin.png" width="180" height="50"/></a>
-    
+      <img  src="https://github.com/GersonDantas/img/blob/main/Linkedin.png" width="180" height="50"/>
+    </a>
+  
     <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
-    <img  src="https://github.com/GersonDantas/img/blob/main/Facebook.png" width="180" height="50"/></a>
-    
+      <img  src="https://github.com/GersonDantas/img/blob/main/Facebook.png" width="180" height="50"/>
+    </a>
+  
   </p> 
   
   </br>
@@ -44,8 +47,6 @@
   <p>
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight" />
   </p> 
-  </br>
-  </br>
   <p>
    <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gersonDantas&theme=tokyonight"/>
   </p>  
