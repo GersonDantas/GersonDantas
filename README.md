@@ -4,6 +4,9 @@
 <h1 align="center">Olá :wave:, me chamo Gerson Dantas</h1>
 <h3 align="center">Sou <strong>desenvolvedor mobile</strong>. Porem, sou um sujeito um tanto curioso. Por isso que, achará aqui conhecimentos distintos. Assim como faltará alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender intrínseca, que me faz ir além dos meus objetivos.</h3>
 
+- 🔭 Atualmente estou contribuindo no projeto [APP-ANJO](https://github.com/APP-ANJO)
+
+
 <details>
   <summary>:page_with_curl: Resume</summary>
  <table align="center">
@@ -29,7 +32,8 @@
 
 </details>
 
-- 🔭 Atualmente estou contribuindo no projeto [APP-ANJO](https://github.com/APP-ANJO)
+</br>
+
 
 <h3 align="left">:dart: Conhecimentos:</h3>
 
