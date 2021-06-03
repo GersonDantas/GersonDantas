@@ -1,3 +1,11 @@
+<!-- 
+Repositórios esites usados para este Readm.md
+Github Profile Trophy
+https://github.com/ryo-ma/github-profile-trophy
+Welcome! Badges 4 README.md Profile
+
+-->
+
 <p align="center">
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" />
 </p>
@@ -148,6 +156,20 @@
   </p>
 </details>
 
+<!--
+links usados para este Readme.md
 
+Github Profile Trophy
+https://github.com/ryo-ma/github-profile-trophy
+
+Welcome! Badges 4 README.md Profile
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+GitHub Readme Stats
+https://github.com/anuraghazra/github-readme-stats
+
+shields.io
+https://shields.io/
+-->
   
   
