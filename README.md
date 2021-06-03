@@ -1,10 +1,4 @@
-<!-- 
-Repositórios esites usados para este Readm.md
-Github Profile Trophy
-https://github.com/ryo-ma/github-profile-trophy
-Welcome! Badges 4 README.md Profile
 
--->
 
 <p align="center">
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" />
@@ -82,7 +76,6 @@ Welcome! Badges 4 README.md Profile
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />&nbsp;
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;
   </p>
 </details>
 
@@ -140,19 +133,18 @@ Welcome! Badges 4 README.md Profile
   </summary>
   <p align="left">
     <a href="https://www.facebook.com/gerson.dantas.733" target="blank" alt="Facebook">
-      <img  src="https://github.com/GersonDantas/img/blob/main/Facebook.png" width="180" height="50"/>&nbsp;
+      <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook" height="40" alt="stackoverflow"/>&nbsp;
     </a>
      <a href="https://www.linkedin.com/in/gersonsantosss/" target="blank" alt="Linkedin">
-      <img  src="https://github.com/GersonDantas/img/blob/main/Linkedin.png" width="180" height="50"/>&nbsp;
+       <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn" height="40" alt="stackoverflow"/>&nbsp;
     </a>
+    </br>
     <a href="https://www.instagram.com/gerson_santtoss/" target="blank" alt="Instagran" >
-      <img  src="https://github.com/GersonDantas/img/blob/main/Instagran.png" width="180" height="50"/>&nbsp;
+      <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" height="40"/>&nbsp;
     </a>
-    <p>
-      <a href="https://pt.stackoverflow.com/users/236492/gerson-dantas" alt="Stack">
-      <img src="https://img.shields.io/static/v1?label=stackoverflow&message=gerson-dantas&color=56a143&style=for-the-badge&logo=Stack-Overflow" alt="stackoverflow"/>
-      </a>
-    </p>
+    <a href="https://pt.stackoverflow.com/users/236492/gerson-dantas" target="blank" alt="Stack">
+     <img src="https://img.shields.io/static/v1?label=stackoverflow&message=gerson-dantas&color=56a143&style=for-the-badge&logo=Stack-Overflow" height="40" alt="stackoverflow"/>
+    </a>
   </p>
 </details>
 
@@ -170,6 +162,9 @@ https://github.com/anuraghazra/github-readme-stats
 
 shields.io
 https://shields.io/
+
+Como fazer um bom README
+https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 -->
   
   
