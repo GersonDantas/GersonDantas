@@ -32,9 +32,6 @@
 
 </details>
 
-</br>
-
-
 <h3 align="left">:dart: Conhecimentos:</h3>
 
 <details>
