@@ -146,29 +146,29 @@
   <summary>
     :raising_hand: Se chegou até aqui e está curioso, pode entrar em cotato. Pra trabalho, ou simplismente conversar. Manda um alô: ⤵️
   </summary>
-  <p>
-    <table>
+  <p >
+    <table align="center">
       <tr>
         <td>
           <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
-            <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook" height="40" alt="stackoverflow"/>&nbsp;
+            <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook"  alt="stackoverflow"/>&nbsp;
           </a>
         </td>
         <td>
           <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Linkedin">
-             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn" height="40" alt="stackoverflow"/>&nbsp;
+             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn"  alt="stackoverflow"/>&nbsp;
           </a>
         </td>
       </tr>
       <tr>
         <td align="center">
           <a href="https://www.instagram.com/gerson_santtoss/" alt="Instagran" >
-            <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" height="40"/>&nbsp;
+            <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" />&nbsp;
           </a>
         </td>
         <td>
           <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Stack Overflow">
-             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=F58025&style=for-the-badge&logo=stack-overflow" height="40" alt="stackoverflow"/>&nbsp;
+             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=F58025&style=for-the-badge&logo=stack-overflow" alt="stackoverflow"/>&nbsp;
           </a>
         </td>
       </tr>
