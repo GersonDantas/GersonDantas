@@ -168,8 +168,8 @@
           </a>
         </td>
         <td>
-          <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Linkedin">
-             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn" height="40" alt="stackoverflow"/>&nbsp;
+          <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Stack Overflow">
+             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=F58025&style=for-the-badge&logo=stack-overflow" height="40" alt="stackoverflow"/>&nbsp;
           </a>
         </td>
       </tr>
