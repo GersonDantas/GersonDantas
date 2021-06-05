@@ -132,19 +132,32 @@
     :raising_hand: Se chegou até aqui e está curioso, pode entrar em cotato. Pra trabalho, ou simplismente conversar. Manda um alô: ⤵️
   </summary>
   <p align="left">
-    <a href="https://www.facebook.com/gerson.dantas.733" target="blank" alt="Facebook">
-      <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook" height="40" alt="stackoverflow"/>&nbsp;
-    </a>
-     <a href="https://www.linkedin.com/in/gersonsantosss/" target="blank" alt="Linkedin">
-       <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn" height="40" alt="stackoverflow"/>&nbsp;
-    </a>
-    </br>
-    <a href="https://www.instagram.com/gerson_santtoss/" target="blank" alt="Instagran" >
-      <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" height="40"/>&nbsp;
-    </a>
-    <a href="https://pt.stackoverflow.com/users/236492/gerson-dantas" target="blank" alt="Stack">
-     <img src="https://img.shields.io/static/v1?label=stackoverflow&message=gerson-dantas&color=56a143&style=for-the-badge&logo=Stack-Overflow" height="40" alt="stackoverflow"/>
-    </a>
+    <table>
+      <tr>
+        <td>
+          <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
+            <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook" height="40" alt="stackoverflow"/>&nbsp;
+          </a>
+        </td>
+        <td>
+          <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Linkedin">
+             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn" height="40" alt="stackoverflow"/>&nbsp;
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://www.instagram.com/gerson_santtoss/" alt="Instagran" >
+            <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" height="40"/>&nbsp;
+          </a>
+        </td>
+        <td>
+          <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Linkedin">
+             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn" height="40" alt="stackoverflow"/>&nbsp;
+          </a>
+        </td>
+      </tr>
+    </table>
   </p>
 </details>
 
