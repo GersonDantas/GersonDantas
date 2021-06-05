@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" />
 </p>
