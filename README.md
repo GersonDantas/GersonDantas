@@ -33,10 +33,11 @@
 
 </details>
 
-<h3 align="left">:dart: Conhecimentos:</h3>
+## :dart: Conhecimentos:
 
 <details>
   <summary>:man_technologist: Linguagens de programação:</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
@@ -52,6 +53,7 @@
 
 <details>
   <summary>:zap: Bancos:</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
@@ -62,6 +64,7 @@
 
 <details>
   <summary>:rocket: Frameworks</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native"/>&nbsp;
@@ -87,6 +90,7 @@
 
 <details>
   <summary>:cloud: Cloud</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWSL"/>&nbsp;
@@ -97,6 +101,7 @@
 
 <details>
   <summary>:computer: OS manipulados:</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="AndroidL"/>&nbsp;
@@ -113,6 +118,7 @@
 
 <details>
   <summary>:man_technologist: IDE </summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode"/>&nbsp;
@@ -124,6 +130,7 @@
 
 <details>
   <summary>:man_technologist: Office</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google sheets"/>&nbsp;
@@ -133,6 +140,7 @@
 
 <details>
   <summary>:crayon::triangular_ruler: Design</summary>
+  <hr>
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
@@ -146,6 +154,7 @@
   <summary>
     :raising_hand: Se chegou até aqui e está curioso, pode entrar em cotato. Pra trabalho, ou simplismente conversar. Manda um alô: ⤵️
   </summary>
+  <hr>
   <p >
     <table align="center">
       <tr>
