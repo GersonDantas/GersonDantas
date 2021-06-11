@@ -3,7 +3,7 @@
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" />
 </p>
 <h1 align="center">Olá :wave:, me chamo Gerson Dantas</h1>
-<h3 align="center">Sou <strong>desenvolvedor mobile e web</strong>. Porem, sou um sujeito um tanto curioso. Por isso que, achará aqui conhecimentos distintos. Assim como faltará alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender intrínseca, que me faz ir além dos meus objetivos.</h3>
+<h3 align="center">Sou desenvolvedor mobile e web. Porém, sou um sujeito um tanto curioso. Por isso, achará aqui conhecimentos distintos. Assim como faltarão alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender intrínseca, que me faz ir além dos meus objetivos.</h3>
 
 - 🔭 Atualmente estou contribuindo no projeto [APP-ANJO](https://github.com/APP-ANJO)
 
@@ -111,7 +111,12 @@
       <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" alt="Windows 95"/>&nbsp;
       <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" alt="Windows XP"/>&nbsp;
       <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>&nbsp;
-      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&label=Atual" alt="Mint"/>&nbsp;
+      <table align="center">
+        <tr>
+          <td><strong>Sistema Atual<strong></td>
+          <td><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
+        </tr>
+      </table>
     </p>
   </p>
 </details>
