@@ -157,7 +157,7 @@
 
 <details>
   <summary>
-    :raising_hand: Se chegou até aqui e está curioso, pode entrar em cotato. Pra trabalho, ou simplismente conversar. Manda um alô: ⤵️
+    :raising_hand: Se chegou até aqui e ficou curioso, pode entrar em contato para trabalho ou simplesmente conversar. Manda um alô: ⤵️
   </summary>
   <hr>
   <p >
