@@ -3,7 +3,7 @@
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" />
 </p>
 <h1 align="center">Olá :wave:, me chamo Gerson Dantas</h1>
-<h3 align="center">Sou desenvolvedor mobile e web. Porém, sou um sujeito um tanto curioso. Por isso, achará aqui conhecimentos distintos. Assim como faltarão alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender intrínseca, que me faz ir além dos meus objetivos.</h3>
+<h3 align="center">Sou desenvolvedor mobile e web. Sou um sujeito um tanto curioso, por isso achará aqui conhecimentos distintos, assim como faltarão alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender intrínseca que me faz ir além dos meus objetivos.</h3>
 
 - 🔭 Atualmente estou contribuindo no projeto [APP-ANJO](https://github.com/APP-ANJO)
 
