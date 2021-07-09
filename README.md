@@ -1,12 +1,10 @@
-
 <p align="center">
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/DevGersonMobile.png" alt="Ilustração de programador mobile" />
 </p>
-<h1 align="center">Olá :wave:, me chamo Gerson Dantas</h1>
-<h3 align="center">Sou desenvolvedor mobile e web. Sou um sujeito um tanto curioso, por isso achará aqui conhecimentos distintos, assim como faltarão alguns que já trabalhei ou tive experiência. No mais, tenho uma vontade de aprender intrínseca que me faz ir além dos meus objetivos.</h3>
+<h1 align="center">Hi :wave:, i'm Gerson Dantas</h1>
+<h3 align="center">I'm a mobile and web developer. I'm a somewhat curious person, so you'll find different knowledge here, as well as some that I've worked or had experience will be missing. Furthermore, I have an intrinsic desire to learn that makes me go beyond my goals.</h3>
 
-- 🔭 Atualmente estou contribuindo no projeto [APP-ANJO](https://github.com/APP-ANJO)
-
+- 🔭 I'm currently contributing to the project [APP-ANJO](https://github.com/APP-ANJO)
 
 <details>
   <summary>:page_with_curl: Resume</summary>
@@ -29,14 +27,14 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gersondantas&theme=tokyonight" alt="gersondantas" />
     </td>
   </tr>
-</table> 
+</table>
 
 </details>
 
-## :dart: Conhecimentos:
+## :dart: Knowledge:
 
 <details>
-  <summary>:man_technologist: Linguagens de programação:</summary>
+  <summary>:man_technologist: Programming languages:</summary>
   <hr>
   <p>
     <p align="center">
@@ -44,15 +42,12 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScrip"/>&nbsp;
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C#"/>&nbsp;
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>&nbsp;
-    </p>
   </p>
   
 </details>
 
 <details>
-  <summary>:zap: Bancos:</summary>
+  <summary>:zap: Banks:</summary>
   <hr>
   <p>
     <p align="center">
@@ -65,29 +60,32 @@
 <details>
   <summary>:rocket: Frameworks</summary>
   <hr>
+  <h6 align="center">Most used currently</h6>
+  <p align="center">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs"/>&nbsp;
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NodeJS"/>&nbsp;
+    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />&nbsp;
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />&nbsp;
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components" />&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-ui" />&nbsp;
+  </p>
+  <hr>
   <p>
     <p align="center">
-      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs"/>&nbsp;
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native"/>&nbsp;
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />&nbsp;
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NodeJS"/>&nbsp;
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>&nbsp;
-      <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />&nbsp;
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />&nbsp;
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />&nbsp;
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET" />&nbsp;
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components" />&nbsp;
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />&nbsp;
       <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />&nbsp;
-      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-ui" />&nbsp;
     </p>
   </p>
 </details>
-
 
 <details>
   <summary>:cloud: Cloud</summary>
@@ -101,7 +99,7 @@
 </details>
 
 <details>
-  <summary>:computer: OS manipulados:</summary>
+  <summary>:computer: OS manipulated:</summary>
   <hr>
   <p>
     <p align="center">
@@ -114,7 +112,7 @@
       <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>&nbsp;
       <table align="center">
         <tr>
-          <td><strong>Sistema Atual<strong></td>
+          <td><strong>Current System <strong></td>
           <td><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
         </tr>
       </table>
@@ -128,8 +126,6 @@
   <p>
     <p align="center">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode"/>&nbsp;
-      <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual studio Code"/>&nbsp;
-      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Visual studio Code"/>&nbsp;
     </p>
   </p>
 </details>
@@ -158,7 +154,7 @@
 
 <details>
   <summary>
-    :raising_hand: Se chegou até aqui e ficou curioso, pode entrar em contato para trabalho ou simplesmente conversar. Manda um alô: ⤵️
+    :raising_hand:If you got here and got curious, you can get in touch for work or just talk. send a hello: ⤵️
   </summary>
   <hr>
   <p >
@@ -209,5 +205,3 @@ https://shields.io/
 Como fazer um bom README
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
 -->
-  
-  
