@@ -94,6 +94,7 @@
     <p align="center">
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWSL"/>&nbsp;
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle"/>&nbsp;
+      <img src="https://img.shields.io/badge/Firebase-039be5?style=for-the-badge&logo=firebase&logoColor=orange" alt="firebase"/>&nbsp;
     </p>
   </p>
 </details>
