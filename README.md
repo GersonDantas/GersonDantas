@@ -115,7 +115,7 @@
       <table align="center">
         <tr>
           <td><strong>Current System <strong></td>
-          <td><img src="https://img.shields.io/badge/Linux_Xubuntu-2284F2?style=for-the-badge&logo=XFCE&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
+          <td><img src="https://img.shields.io/badge/Xubuntu-2284F2?style=for-the-badge&logo=XFCE&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
         </tr>
       </table>
     </p>
