@@ -4,7 +4,7 @@
 <h1 align="center">Hi :wave:, i'm Gerson Dantas</h1>
 <h3 align="center">I'm a mobile and web developer. I'm a somewhat curious person, so you'll find different knowledge here, as well as some that I've worked or had experience will be missing. Furthermore, I have an intrinsic desire to learn that makes me go beyond my goals.</h3>
 
-- 🔭 I'm currently contributing to the project [APP-ANJO](https://github.com/APP-ANJO)
+- 🔭 I am currently contributing to Chatbotmaker [by Suri] (https://www.chatbotmaker.io/)
 
 <details>
   <summary>:page_with_curl: Resume</summary>
