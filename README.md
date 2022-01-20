@@ -189,6 +189,9 @@
     </table>
   </p>
 </details>
+<p align="center">
+  <img align="center" src="https://github.com/GersonDantas/img/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <!--
 links usados para este Readme.md
