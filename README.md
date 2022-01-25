@@ -155,6 +155,17 @@
   </p>
 </details>
 
+<h2>:pushpin:  Current project</h2>
+<p>
+  <a href="https://github.com/GersonDantas/clean-react" alt="Clean react repositori ">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonDantas&repo=clean-react" alt="ReadMe Card"/>
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github.com/GersonDantas/img/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <details>
   <summary>
     :raising_hand:If you got here and got curious, you can get in touch for work or just talk. send a hello: ⤵️
@@ -189,9 +200,6 @@
     </table>
   </p>
 </details>
-<p align="center">
-  <img align="center" src="https://github.com/GersonDantas/img/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <!--
 links usados para este Readme.md
