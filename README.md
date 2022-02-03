@@ -28,6 +28,8 @@
     </td>
   </tr>
 </table>
+  
+  
 
 </details>
 
@@ -174,26 +176,22 @@
   <p >
     <table align="center">
       <tr>
-        <td>
-          <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
-            <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook"  alt="stackoverflow"/>&nbsp;
+        <td align="center">
+          <a href="https://stackoverflow.com/users/15898985/gerson-dantas?tab=profile" alt="Stackoverflow">
+             <img src="https://img.shields.io/static/v1?label=Stackoverflow&message=gersonsantosss&color=F58025&style=for-the-badge&logo=stack-overflow" alt="stackoverflow"/>&nbsp;
+             <img src="https://github-readme-stackoverflow.vercel.app/?userID=15898985&theme=dark&layout=compact"/>&nbsp;
           </a>
         </td>
-        <td>
+        <td align="center">
+          <a href="https://www.instagram.com/gerson_santtoss/" alt="Instagran" >
+            <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" />
+            </br>
+          </a>
           <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Linkedin">
              <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn"  alt="stackoverflow"/>&nbsp;
           </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <a href="https://www.instagram.com/gerson_santtoss/" alt="Instagran" >
-            <img  src="https://img.shields.io/static/v1?label=Instagram&message=gerson_santtoss&color=E4405F&style=for-the-badge&logo=Instagram" />&nbsp;
-          </a>
-        </td>
-        <td>
-          <a href="https://www.linkedin.com/in/gersonsantosss/" alt="Stack Overflow">
-             <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=F58025&style=for-the-badge&logo=stack-overflow" alt="stackoverflow"/>&nbsp;
+          <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
+            <img src="https://img.shields.io/static/v1?label=Facebook&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook"  alt="stackoverflow"/>
           </a>
         </td>
       </tr>
@@ -218,4 +216,7 @@ https://shields.io/
 
 Como fazer um bom README
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
+
+Como fazer o card do stackoverflow
+https://github.com/omidnikrah/github-readme-stackoverflow
 -->
