@@ -114,11 +114,11 @@
       <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" alt="Windows 95"/>&nbsp;
       <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" alt="Windows XP"/>&nbsp;
       <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>&nbsp;
-      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&message=Atual" alt="Atual"/>&nbsp;
+      <img src="https://img.shields.io/badge/Xubuntu-2284F2?style=for-the-badge&logo=XFCE&logoColor=white&message=Atual" alt="Atual"/>&nbsp;
       <table align="center">
         <tr>
           <td><strong>Current System <strong></td>
-          <td><img src="https://img.shields.io/badge/Xubuntu-2284F2?style=for-the-badge&logo=XFCE&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
+          <td><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
         </tr>
       </table>
     </p>
