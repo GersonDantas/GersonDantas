@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary>:zap: Banks:</summary>
+  <summary>:zap: database:</summary>
   <hr>
   <p>
     <p align="center">
