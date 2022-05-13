@@ -177,7 +177,7 @@
     <table align="center">
       <tr>
         <td align="center">
-          <a href="https://stackoverflow.com/users/15898985/gerson-dantas?tab=profile" alt="Stackoverflow">
+          <a href="https://stackoverflow.com/users/15898985/gerson-dantas?tab=profile" target="_blank" rel="noopener" alt="Stackoverflow">
              <img src="https://img.shields.io/static/v1?label=Stackoverflow&message=gersonsantosss&color=F58025&style=for-the-badge&logo=stack-overflow" alt="stackoverflow"/>&nbsp;
              <img src="https://github-readme-stackoverflow.vercel.app/?userID=15898985&theme=dark&layout=compact"/>&nbsp;
           </a>
@@ -191,7 +191,7 @@
              <img src="https://img.shields.io/static/v1?label=LinkedIn&message=gersonsantosss&color=0A66C2&style=for-the-badge&logo=LinkedIn"  alt="stackoverflow"/>&nbsp;
           </a>
           <a href="https://www.facebook.com/gerson.dantas.733" alt="Facebook">
-            <img src="https://img.shields.io/static/v1?label=Facebook&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook"  alt="stackoverflow"/>
+            <img src="https://img.shields.io/static/v1?label=Facebook&message=gerson.dantas.733s&color=0F92F3&style=for-the-badge&logo=Facebook"  alt="facebook"/>
           </a>
         </td>
       </tr>
