@@ -159,8 +159,8 @@
 
 <h2>:pushpin:  Current project</h2>
 <p>
-  <a href="https://github.com/GersonDantas/clean-react" alt="Clean react repositori ">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonDantas&repo=clean-react&theme=tokyonight" alt="ReadMe Card"/>
+  <a href="https://github.com/GersonDantas/portal-suri" alt="Clean react repositori ">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonDantas&repo=portal-suri&theme=tokyonight" alt="ReadMe Card"/>
   </a>
 </p>
 
