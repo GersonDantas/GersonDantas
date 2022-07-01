@@ -114,11 +114,12 @@
       <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" alt="Windows 95"/>&nbsp;
       <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" alt="Windows XP"/>&nbsp;
       <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>&nbsp;
-      <img src="https://img.shields.io/badge/Xubuntu-2284F2?style=for-the-badge&logo=XFCE&logoColor=white&message=Atual" alt="Atual"/>&nbsp;
+      <img src="https://img.shields.io/badge/Xubuntu-2284F2?style=for-the-badge&logo=XFCE&logoColor=white&message=Xubuntu" alt="Atual"/>&nbsp;
+      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&message=Mint" alt="Mint"/>&nbsp;
       <table align="center">
         <tr>
           <td><strong>Current System <strong></td>
-          <td><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
+          <td><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white&message=Atual" alt="Atual"/>&nbsp;</td>
         </tr>
       </table>
     </p>
@@ -153,6 +154,27 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
       <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp"/>&nbsp;
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>&nbsp;
+    </p>
+  </p>
+</details>
+
+<details>
+  <summary>🔒 Security Platforms</summary>
+  <hr>
+  <p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>&nbsp;
+    </p>
+  </p>
+</details>
+
+<details>
+  <summary>📚 Education</summary>
+  <hr>
+  <p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />&nbsp;
     </p>
   </p>
 </details>
@@ -195,6 +217,24 @@
           </a>
         </td>
       </tr>
+      <tr>
+        <td align="center">
+          <a href="https://t.me/developergerson" alt="telegran" >
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="telegran"/>
+          </a>
+          <a href="https://wa.me/5584996966309" target="_blank" rel="noopener" alt="whatsapp">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="telegran"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="mailto:gerson.accari@hotmail.com" alt="outlook" >
+            <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  alt="outlook"/>
+          </a>
+          <a href="mailto:gordimgerson@gmail.com" alt="outlook" >
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail"/>
+          </a>
+        </td>
+      </tr>
     </table>
   </p>
 </details>
@@ -210,6 +250,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 GitHub Readme Stats
 https://github.com/anuraghazra/github-readme-stats
+
+emoji-cheat-sheet
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 shields.io
 https://shields.io/
