@@ -192,7 +192,7 @@
 
 <details>
   <summary>
-    :raising_hand:If you got here and got curious, you can get in touch for work or just talk. send a hello: ⤵️
+    :raising_hand:If you got here and got curious, you can get in touch for work or just talk. Send a hello: ⤵️
   </summary>
   <hr>
   <p >
