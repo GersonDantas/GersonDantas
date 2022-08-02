@@ -4,7 +4,7 @@
 <h1 align="center">Hi :wave:, i'm Gerson Dantas</h1>
 <h3 align="center">I'm a mobile and web developer. I'm a somewhat curious person, so you'll find different knowledge here, as well as some that I've worked or had experience will be missing. Furthermore, I have an intrinsic desire to learn that makes me go beyond my goals.</h3>
 
-- 🔭 I am currently contributing to Chatbotmaker [by Suri] (https://laudite.com.br/)
+- 🔭 I am currently contributing to Laudite (https://laudite.com.br/)
 
 <details>
   <summary>:page_with_curl: Resume</summary>
