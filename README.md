@@ -16,12 +16,12 @@
       </a> 
     </td>
     <td>
-      <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight&hide_rank=true" />
+      <img width="495px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gersonDantas&hide=html&layout=compact&theme=tokyonight&hide_rank=true" />
     </td>
   </tr>
   <tr>
     <td>
-      <img width="495px" src="https://github-readme-stats.vercel.app/api?username=gersonDantas&theme=tokyonight"/>
+      <img width="495px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gersonDantas&theme=tokyonight"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gersondantas&theme=tokyonight" alt="gersondantas" />
@@ -190,12 +190,12 @@
   </p>
 </details>
 
-<h2>:pushpin:  Current project</h2>
+<!-- <h2>:pushpin:  Current project</h2>
 <p>
   <a href="https://github.com/GersonDantas/portal-suri" alt="Clean react repositori ">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonDantas&repo=portal-suri&theme=tokyonight" alt="ReadMe Card"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img align="center" src="https://github.com/GersonDantas/img/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
